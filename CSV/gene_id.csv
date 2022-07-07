@@ -1,5 +1,5 @@
 id,direction
-varchar,varchar
+integer,varchar
 primary key,
 YLR028C,gene
 YMR120C,gene
